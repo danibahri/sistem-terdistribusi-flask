@@ -1,4 +1,4 @@
-#Aplikasi Pemrosesan Sentimen Terdistribusi
+# Aplikasi Pemrosesan Sentimen Terdistribusi
 
 Aplikasi ini digunakan untuk menganalisis sentimen dari komentar atau ulasan yang diberikan oleh pengguna di berbagai platform (media sosial, forum, dll.) dengan menggunakan analisis sentimen berbasis model pre-trained. Aplikasi ini dibangun dengan menggunakan Flask sebagai API server, RabbitMQ sebagai message broker untuk komunikasi antar komponen, dan model pre-trained untuk analisis sentimen.
 
