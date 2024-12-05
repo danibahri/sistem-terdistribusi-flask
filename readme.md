@@ -34,8 +34,9 @@ Disarankan untuk menggunakan virtual environment agar dependensi proyek terisola
 
 ```bash
 python -m venv env
-Aktifkan virtual environment:
 ```
+
+Aktifkan virtual environment:
 
 Windows:
 ```
